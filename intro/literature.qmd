@@ -1,9 +1,0 @@
----
-title: "Literatur zu VerbundFDB"
-lang: de
-bibliography: bibliography.bib
-csl: ../apa.csl
-nocite: |
-  @*
----
-
