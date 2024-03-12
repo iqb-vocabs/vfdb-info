@@ -1,12 +1,13 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Verbund Forschungsdaten Bildung",
+    "objectID": "intro/literature.html",
+    "href": "intro/literature.html",
+    "title": "Literatur zu VerbundFDB",
     "section": "",
-    "text": "Achtung: Webseite in Entwicklung\n\n\n\nDiese Webseite ist im Aufbau. Das IQB erprobt über diesen Weg die Nutzbarkeit von Quarto. Bitte ignorieren Sie zunächst die Inhalte.\n\n\n\nWillkommen\nIm Verbund Forschungsdaten Bildung (VerbundFDB) arbeiten einschlägige nationale Einrichtungen aus dem Bereich der Bildungsforschung und der Forschungsdateninfrastruktur gemeinsam daran, ein attraktives und qualitativ hochwertiges Angebot an Forschungsdaten für die empirische Bildungsforschung bereitzustellen. Dabei verpflichtet sich der VerbundFDB den Prinzipien von Open Science. Forschende finden beim VerbundFDB die Möglichkeit, selbstgenerierte Daten zu archivieren und Forschungsdaten zur Nachnutzung aufzufinden.\n\n\nRedaktion\nDie vorliegenden Texte werden unter Federführung des Forschungsdatenzentrums am IQB veröffentlicht. Die jeweiligen Autor*innen sind entweder im Kopf eines Dokumentes genannt oder zu Beginn eines größeren Seitenzweiges.\n\n\nLizenz\nAlle Texte sind unter der Lizenz CC0 veröffentlicht. Die Leitlinien zur Sicherung guter wissenschaftlicher Praxis (s. z. B. DFG-pdf) gebieten gleichwohl, dass die Quellen von Informationen genannt werden sollten.\n\n\nHaftungsausschluss\nAuf vielen der in diesem Dokument verlinkten Webseiten finden Sie Zusatzmaterialien. Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Richtigkeit, Vollständigkeit und Aktualität der Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.\n\n\nTechnische Realisierung\nDieser Webauftritt basiert auf Texten in einer einfachen Syntax Markdown, die anschließend in Html und CSS umgesetzt werden. Hierzu wird Quarto verwendet. Sämtliche Dateien für den Inhalt und die Steuerung sind in einem öffentlich zugänglichen Codeverwaltungssystem gespeichert. Hier ist auch eine Anleitung für Änderungen an den Inhalten zu finden.\n\n\nKontakt\nFür die Inhalte dieser Webseite ist Frau Lisa Pegelow verantwwortlich. Technische Fragen für die Bearbeitung der Inhalte können Sie an Martin Mechtel richten.\nWenn Sie Probleme melden möchten, können Sie auch die Funktion “Problem melden” nutzen, die rechts auf jeder Seite zu finden ist. Sie werden dann zu GitHub weitergeleitet. Es ist ein Account bei GitHub erforderlich.",
+    "text": "Literatur\n\nFunke, R. (2005). Sprachliches im Blickfeld des Wissens: Grammatische Kenntnisse von Schülerinnen und Schülern. Bausteine Forschungsdatenmanagement, 254.\n\n\nKnopf, C., J. & Luptowicz. (2021). Sprache funktional und pragmatisch betrachten. In U. A. & J. Knopf (Hrsg.), Deutsch. Didaktik für die Grundschule (S. 146–157). Cornelsen.\n\n\nLisa Pegelow, M. J. und C. N. (2021). Erwerb des Zertifikats CoreTrustSeal (CTS) durch ein Forschungsdatenzentrum im Bildungsbereich: Motivation, Umsetzung und Lessons Learned. Bausteine Forschungsdatenmanagement, 1, 10–21. https://doi.org/10.17192/bfdm.2021.1.8310\n\n\nOssner, J. (2021). Grammatik: verstehen – erklären – unterrichten: Theorie und Praxis der Schulgrammatik des Deutschen. Brill Schöningh.",
     "crumbs": [
-      "Start"
+      "Einführung",
+      "Literaturquellen"
     ]
   },
   {
@@ -21,14 +22,13 @@
     ]
   },
   {
-    "objectID": "intro/literature.html",
-    "href": "intro/literature.html",
-    "title": "Literatur zu VerbundFDB",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Verbund Forschungsdaten Bildung",
     "section": "",
-    "text": "Literatur\n\nFunke, R. (2005). Sprachliches im Blickfeld des Wissens: Grammatische Kenntnisse von Schülerinnen und Schülern. Bausteine Forschungsdatenmanagement, 254.\n\n\nKnopf, C., J. & Luptowicz. (2021). Sprache funktional und pragmatisch betrachten. In U. A. & J. Knopf (Hrsg.), Deutsch. Didaktik für die Grundschule (S. 146–157). Cornelsen.\n\n\nLisa Pegelow, M. J. und C. N. (2021). Erwerb des Zertifikats CoreTrustSeal (CTS) durch ein Forschungsdatenzentrum im Bildungsbereich: Motivation, Umsetzung und Lessons Learned. Bausteine Forschungsdatenmanagement, 1, 10–21. https://doi.org/10.17192/bfdm.2021.1.8310\n\n\nOssner, J. (2021). Grammatik: verstehen – erklären – unterrichten: Theorie und Praxis der Schulgrammatik des Deutschen. Brill Schöningh.",
+    "text": "Achtung: Webseite in Entwicklung\n\n\n\nDiese Webseite ist im Aufbau. Das IQB erprobt über diesen Weg die Nutzbarkeit von Quarto. Bitte ignorieren Sie zunächst die Inhalte.\n\n\n\nWillkommen\nIm Verbund Forschungsdaten Bildung (VerbundFDB) arbeiten einschlägige nationale Einrichtungen aus dem Bereich der Bildungsforschung und der Forschungsdateninfrastruktur gemeinsam daran, ein attraktives und qualitativ hochwertiges Angebot an Forschungsdaten für die empirische Bildungsforschung bereitzustellen. Dabei verpflichtet sich der VerbundFDB den Prinzipien von Open Science. Forschende finden beim VerbundFDB die Möglichkeit, selbstgenerierte Daten zu archivieren und Forschungsdaten zur Nachnutzung aufzufinden.\n\n\nRedaktion\nDie vorliegenden Texte werden unter Federführung des Forschungsdatenzentrums am IQB veröffentlicht. Die jeweiligen Autor*innen sind entweder im Kopf eines Dokumentes genannt oder zu Beginn eines größeren Seitenzweiges.\n\n\nLizenz\nAlle Texte sind unter der Lizenz CC0 veröffentlicht. Die Leitlinien zur Sicherung guter wissenschaftlicher Praxis (s. z. B. DFG-pdf) gebieten gleichwohl, dass die Quellen von Informationen genannt werden sollten.\n\n\nHaftungsausschluss\nAuf vielen der in diesem Dokument verlinkten Webseiten finden Sie Zusatzmaterialien. Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für Richtigkeit, Vollständigkeit und Aktualität der Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.\n\n\nTechnische Realisierung\nDieser Webauftritt basiert auf Texten in einer einfachen Syntax Markdown, die anschließend in Html und CSS umgesetzt werden. Hierzu wird Quarto verwendet. Sämtliche Dateien für den Inhalt und die Steuerung sind in einem öffentlich zugänglichen Codeverwaltungssystem gespeichert. Hier ist auch eine Anleitung für Änderungen an den Inhalten zu finden.\n\n\nKontakt\nFür die Inhalte dieser Webseite ist Frau Lisa Pegelow verantwwortlich. Technische Fragen für die Bearbeitung der Inhalte können Sie an Martin Mechtel richten.\nWenn Sie Probleme melden möchten, können Sie auch die Funktion “Problem melden” nutzen, die rechts auf jeder Seite zu finden ist. Sie werden dann zu GitHub weitergeleitet. Es ist ein Account bei GitHub erforderlich.",
     "crumbs": [
-      "Einführung",
-      "Literaturquellen"
+      "Start"
     ]
   }
 ]
