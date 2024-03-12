@@ -30,6 +30,8 @@ website:
         contents:
           - href: intro/what_is.qmd
             text: Was ist VerbundFDB?
+          - href: intro/literature.qmd
+            text: Literaturquellen
 
 format:
   html:
