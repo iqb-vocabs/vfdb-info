@@ -5,19 +5,18 @@ title: Im Einzelnen
 
 Es gibt folgende kontrollierte Vokabularien (sog. CVs) des VerbundFDB im Bereich der Bildungsforschung:
 
-* unordered list
-    + VerbundFDB - Kontrolliertes Vokabular - Auswahlverfahren
-    + VerbundFDB - Kontrolliertes Vokabular - Datenformat
-    + VerbundFDB - Kontrolliertes Vokabular - Datentyp
-    + VerbundFDB - Kontrolliertes Vokabular - Erhebungsdesign
-    + VerbundFDB - Kontrolliertes Vokabular - Erhebungseinheit
-    + VerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode
-    + VerbundFDB - Kontrolliertes Vokabular - Forschungsdesign
-    + VerbundFDB - Kontrolliertes Vokabular - Forschungsgebiet
-    + VerbundFDB - Kontrolliertes Vokabular - Themenbereiche
-    + VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren v1
-    + VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren v2
-    + VerbundFDB - Kontrolliertes Vokabular - Zugriff
+* [VerbundFDB - Kontrolliertes Vokabular - Auswahlverfahren](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/av/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Datenformat](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/df/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Datentyp](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/dt/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Erhebungsdesign](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/ed/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Erhebungseinheit](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/ee/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/em/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Forschungsdesign](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/fd/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Forschungsgebiet](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/fg/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Themenbereiche](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/tb/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren v1](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/v1/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren v2](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/v2/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Zugriff](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/zu/index.html)
 
 Mit den kontrollierten Vokabularien werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.
 
