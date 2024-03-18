@@ -14,7 +14,7 @@ Es gibt folgende kontrollierte Vokabularien (sog. CVs) des VerbundFDB im Bereich
 * [VerbundFDB - Kontrolliertes Vokabular - Forschungsdesign](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/fd/index.html)
 * [VerbundFDB - Kontrolliertes Vokabular - Forschungsgebiet](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/fg/index.html)
 * [VerbundFDB - Kontrolliertes Vokabular - Themenbereiche](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/tb/index.html)
-* [VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren v2](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/v2/index.html)
+* [VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/v2/index.html)
 * [VerbundFDB - Kontrolliertes Vokabular - Zugriff](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/zu/index.html)
 
 Visualisiert kann man sich diese [hier anschauen](https://www.iqb.hu-berlin.de/fdz/browser)Mit den kontrollierten Vokabularien werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.
