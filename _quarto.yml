@@ -34,7 +34,13 @@ website:
             text: Literaturquellen
       - section: "Kontrollierte Vokabularien"
         contents:
-          - cv/intro.qmd
+          - href: cv/intro.qmd
+            text: Einführende Worte
+          - href: cv/cv-im-einzelnen.qmd
+            text: Kontrollierte Vokabularien im Einzelnen
+          - href: cv/fdz-am-iqb.qmd
+            text: FDZ am IQB
+
 
 format:
   html:

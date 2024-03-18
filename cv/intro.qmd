@@ -1,29 +1,8 @@
 ---
 lang: de
-title: Kontrollierte Vokabulare
+title: Einführende Worte
 ---
-
-# Einführende Worte
 
 Der VerbundFDB gestaltet die Forschungsdateninfrastruktur im Bereich der empirischen Bildungsforschung in Deutschland. Ein Hauptanliegen ist die Schaffung eines zentralen Zugangs zu Forschungsdaten.
 Ein zentraler Nachweis der Forschungsdaten aus unterschiedlichen Forschungsprojekten benötigt einen Kern an Metadaten, den alle nachgewiesenen Datensätze kennzeichnen. Damit geht eine Erhöhung der Metadatenqualität einher. Ziel muss es sein, kontrollierte Vokabulare sowie Metadatenschemata und Metadatenkataloge zu veröffentlichen, um diese zentral und kooperativ zu verwalten und der Öffentlichkeit zugänglich zu machen.
-Die im Rahmen des VerbundFDB entwickelten kontrollierten Vokabularien aus der Bildungsforschung finden sich hier:
-* https://skohub.io/iqb-vocabs/v85/heads/master/
-*
-*
-
-Damit werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.
-
-Die internationale Anschlussfähigkeit wird durch eine durchgängige Mehrsprachigkeit der Kataloge und Vokabularien ermöglicht sowie durch Informationen zum Mapping einzelner Elemente auf existierende Schemata. Die Kataloge werden aktuell gehalten und bei Weiterentwicklungen werden die nötigen Anpassungen vorgenommen.
-
-# FDZ am IQB
-[Hier](https://skohub.io/iqb-vocabs/v87/heads/master)finden sich die am FDZ am IQB verwendeten Konstruktkataloge visualisiert.
-
-![](testfoto.JPG)
-vfd
-* spodjpsodjfsdf
-* sdfsdfsdf
-
-## IIIIIII
-
-asfpsoidj podsj vpodsj [vsdüpojvs](https://www.iqb.hu-berlin.de/fdz) dpo pojsp ofjspdojf
+Die im Rahmen des VerbundFDB entwickelten kontrollierten Vokabularien aus der Bildungsforschung finden sich [hier](https://skohub.io/iqb-vocabs/v85/heads/master/).
