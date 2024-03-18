@@ -4,9 +4,9 @@
     "href": "cv/intro.html",
     "title": "Kontrollierte Vokabulare",
     "section": "",
-    "text": "fdvdfkvhdfvdfvfd  vfd * spodjpsodjfsdf * sdfsdfsdf\n\n\nasfpsoidj podsj vpodsj vsdüpojvs dpo pojsp ofjspdojf",
+    "text": "Der VerbundFDB gestaltet die Forschungsdateninfrastruktur im Bereich der empirischen Bildungsforschung in Deutschland. Ein Hauptanliegen ist die Schaffung eines zentralen Zugangs zu Forschungsdaten. Ein zentraler Nachweis der Forschungsdaten aus unterschiedlichen Forschungsprojekten benötigt einen Kern an Metadaten, den alle nachgewiesenen Datensätze kennzeichnen. Damit geht eine Erhöhung der Metadatenqualität einher. Ziel muss es sein, kontrollierte Vokabulare sowie Metadatenschemata und Metadatenkataloge zu veröffentlichen, um diese zentral und kooperativ zu verwalten und der Öffentlichkeit zugänglich zu machen. Die im Rahmen des VerbundFDB entwickelten kontrollierten Vokabularien aus der Bildungsforschung finden sich hier: * https://skohub.io/iqb-vocabs/v85/heads/master/  \nDamit werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.\nDie internationale Anschlussfähigkeit wird durch eine durchgängige Mehrsprachigkeit der Kataloge und Vokabularien ermöglicht sowie durch Informationen zum Mapping einzelner Elemente auf existierende Schemata. Die Kataloge werden aktuell gehalten und bei Weiterentwicklungen werden die nötigen Anpassungen vorgenommen.",
     "crumbs": [
-      "KontrVocs",
+      "Kontrollierte Vokabularien",
       "Kontrollierte Vokabulare"
     ]
   },
@@ -14,10 +14,10 @@
     "objectID": "cv/intro.html#iiiiiii",
     "href": "cv/intro.html#iiiiiii",
     "title": "Kontrollierte Vokabulare",
-    "section": "",
-    "text": "asfpsoidj podsj vpodsj vsdüpojvs dpo pojsp ofjspdojf",
+    "section": "IIIIIII",
+    "text": "IIIIIII\nasfpsoidj podsj vpodsj vsdüpojvs dpo pojsp ofjspdojf",
     "crumbs": [
-      "KontrVocs",
+      "Kontrollierte Vokabularien",
       "Kontrollierte Vokabulare"
     ]
   },
@@ -29,7 +29,7 @@
     "text": "Im Verbund Forschungsdaten Bildung (VerbundFDB) arbeiten einschlägige nationale Einrichtungen aus dem Bereich der Bildungsforschung und der Forschungsdateninfrastruktur gemeinsam daran, ein attraktives und qualitativ hochwertiges Angebot an Forschungsdaten für die empirische Bildungsforschung bereitzustellen. Dabei verpflichtet sich der VerbundFDB den Prinzipien von Open Science. Forschende finden beim VerbundFDB die Möglichkeit, selbstgenerierte Daten zu archivieren und Forschungsdaten zur Nachnutzung aufzufinden.\nSeit 2022 ist der VerbundFDB eine dauerhaft verstetigte Infrastruktur für die Bildungsforschung. Die VerbundFDB-Koordinierungsstelle ist am DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation angesiedelt und wird somit von Bund und Ländern finanziert. Die hierüber finanzierten Basisdienste des VerbundFDB werden durch die Partnerinstitutionen GESIS, IQB und DIPF betrieben. Das Forschungsdatenzentrum des IQB, als ein Partner des VerbundFDB, beschäftigt sich dabei insbesondere mit der Archivierung, Dokumentation und Sichtbarmachung der Daten aus Studien mit Kompetenzmessungen. Darüber hinaus sind insgesamt 13 Institutionen am erweiterten Partnernetzwerk beteiligt (z. B. FDZ-DZHW, FDZ-LIfBi, FDZ-Lex, Qualiservice).\nDer VerbundFDB trägt dazu bei, das Potenzial der in der Bildungsforschung generierten Forschungsdaten möglichst umfassend auszuschöpfen und eine Kultur des Data Sharing zu etablieren. Bildungsforscher*innen aller Disziplinen können nutzerfreundlich und standortunabhängig auf qualitätsgesicherte Forschungsdaten zugreifen. Bei Wahrung ethischer, datenschutz- und urheberrechtlicher Interessen werden hierdurch Forschungsansätze über disziplinäre und nationale Grenzen hinweg möglich. Es entstehen neue Forschungspotenziale durch hochwertige Forschungsdaten und neue Verknüpfungsmöglichkeiten von Forschungsdaten verschiedener Quellen.\nAls zentrale Anlaufstelle für Forschungsdaten in der Bildungsforschung bietet der VerbundFDB folgende Leistungen:\n\nSichtbarkeit und Auffindbarkeit von Forschungsdaten: Über die Datensuche sind Forschungsdaten verschiedener Datenzentren und Repositorien recherchierbar;\nPublikation und Erhalt von qualitätsgesicherten Forschungsdaten: Datenbestände werden bei einem inhaltlich und methodisch passenden Datenzentrum unter Wahrung ethischer, datenschutz- und urheberrechtlicher sowie dokumentarischer Standards archiviert und zugänglich gemacht (Daten teilen);\nSchulung und Beratung zum Datenmanagement: In Vorortschulungen, digitalen Schulungs- und Informationsangeboten sowie durch Handreichungen werden Themen des Forschungsdatenmanagements aufbereitet und diskutiert (Daten managen). Projektspezifische Fragen können in individuellen Beratungen vertieft werden.\nDer VerbundFDB arbeitet in enger Partnerschaft mit KonsortSWD und versteht sich als Teil der Nationalen Forschungsdateninfrastruktur (nfdi).",
     "crumbs": [
       "Einführung",
-      "Was ist VerbundFDB?"
+      "Was ist der VerbundFDB?"
     ]
   },
   {
@@ -37,7 +37,7 @@
     "href": "intro/literature.html",
     "title": "Literatur zu VerbundFDB",
     "section": "",
-    "text": "Literatur\n\nFunke, R. (2005). Sprachliches im Blickfeld des Wissens: Grammatische Kenntnisse von Schülerinnen und Schülern. Bausteine Forschungsdatenmanagement, 254.\n\n\nKnopf, C., J. & Luptowicz. (2021). Sprache funktional und pragmatisch betrachten. In U. A. & J. Knopf (Hrsg.), Deutsch. Didaktik für die Grundschule (S. 146–157). Cornelsen.\n\n\nLisa Pegelow, M. J. und C. N. (2021). Erwerb des Zertifikats CoreTrustSeal (CTS) durch ein Forschungsdatenzentrum im Bildungsbereich: Motivation, Umsetzung und Lessons Learned. Bausteine Forschungsdatenmanagement, 1, 10–21. https://doi.org/10.17192/bfdm.2021.1.8310\n\n\nOssner, J. (2021). Grammatik: verstehen – erklären – unterrichten: Theorie und Praxis der Schulgrammatik des Deutschen. Brill Schöningh.",
+    "text": "Literatur\n\nPegelow, J., Lisa. (2021). Erwerb des Zertifikats CoreTrustSeal (CTS) durch ein Forschungsdatenzentrum im Bildungsbereich: Motivation, Umsetzung und Lessons Learned. Bausteine Forschungsdatenmanagement, 1, 10–21. https://doi.org/10.17192/bfdm.2021.1.8310",
     "crumbs": [
       "Einführung",
       "Literaturquellen"
