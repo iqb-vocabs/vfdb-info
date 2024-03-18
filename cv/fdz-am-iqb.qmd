@@ -2,6 +2,6 @@
 lang: de
 title: Forschungsdatenzentrum (FDZ) am IQB
 ---
-[Hier](https://skohub.io/iqb-vocabs/v87/heads/master) finden sich die am FDZ am IQB verwendeten Konstruktkataloge visualisiert.
-
 ![](Logo-FDZ.jpg){width=20%}
+
+[Hier](https://skohub.io/iqb-vocabs/v87/heads/master) finden sich die am FDZ am IQB verwendeten Konstruktkataloge visualisiert.

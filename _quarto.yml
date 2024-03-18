@@ -37,7 +37,7 @@ website:
           - href: cv/intro.qmd
             text: Einführende Worte
           - href: cv/cv-im-einzelnen.qmd
-            text: Kontrollierte Vokabularien im Einzelnen
+            text: im Einzelnen
           - href: cv/fdz-am-iqb.qmd
             text: FDZ am IQB
 
