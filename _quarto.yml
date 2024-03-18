@@ -3,7 +3,7 @@ project:
 
 website:
   site-url: https://iqb-vocabs.github.io/vfdb-info/
-  title: "VerbundFDB-info"
+  title: "VerbundFDB-CV"
   favicon: favicon.ico
   page-navigation: true
   repo-url: https://github.com/iqb-vocabs/vfdb-info/
@@ -29,10 +29,10 @@ website:
       - section: "Einführung"
         contents:
           - href: intro/what_is.qmd
-            text: Was ist VerbundFDB?
+            text: Was ist der VerbundFDB?
           - href: intro/literature.qmd
             text: Literaturquellen
-      - section: "KontrVocs"
+      - section: "Kontrollierte Vokabularien"
         contents:
           - cv/intro.qmd
 
