@@ -18,6 +18,6 @@ Es gibt folgende kontrollierte Vokabularien (sog. CVs) des VerbundFDB im Bereich
 * [VerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren v2](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/v2/index.html)
 * [VerbundFDB - Kontrolliertes Vokabular - Zugriff](https://skohub.io/iqb-vocabs/v85/heads/master/w3id.org/iqb/v85/zu/index.html)
 
-Mit den kontrollierten Vokabularien werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.
+Visualisiert kann man sich diese [hier anschauen](https://www.iqb.hu-berlin.de/fdz/browser)Mit den kontrollierten Vokabularien werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.
 
 Die internationale Anschlussfähigkeit wird durch eine durchgängige Mehrsprachigkeit der Kataloge und Vokabularien ermöglicht sowie durch Informationen zum Mapping einzelner Elemente auf existierende Schemata. Die Kataloge werden aktuell gehalten und bei Weiterentwicklungen werden die nötigen Anpassungen vorgenommen.
