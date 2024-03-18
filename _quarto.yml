@@ -32,6 +32,9 @@ website:
             text: Was ist VerbundFDB?
           - href: intro/literature.qmd
             text: Literaturquellen
+      - section: "KontrVocs"
+        contents:
+          - cv/intro.qmd
 
 format:
   html:
