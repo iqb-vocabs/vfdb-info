@@ -32,7 +32,7 @@ website:
             text: Was ist der VerbundFDB?
           - href: intro/literature.qmd
             text: Literaturquellen
-      - section: "Kontrollierte Vokabularien"
+      - section: "Kontrollierte Vokabularien und Metadatenschemata"
         contents:
           - href: cv/intro.qmd
             text: Einführende Worte
@@ -40,9 +40,7 @@ website:
             text: im Einzelnen
           - href: cv/fdz-am-iqb.qmd
             text: FDZ am IQB
-        - section: "Metadatenschemata"
-          contents:
-          - href: mds.qmd
+          - href: cv/mdschemata.qmd
             text: Metadatenkernset des VerbundFDB
 
 
