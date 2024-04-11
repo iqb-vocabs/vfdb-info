@@ -5,4 +5,4 @@ title: Metadatenschemata des VerbundFDB
 
 Es gibt folgendes Metadatenschema des VerbundFDB: Kernset der Bildungsforschung:
 
-[VerbundFDB - Metadaten-Kernset](https://github.com/iqb-vocabs/p80)
+[VerbundFDB - Metadaten-Kernset](iqb-vocabs.github.io/p80/)
