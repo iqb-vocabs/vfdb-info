@@ -31,9 +31,9 @@
   {
     "objectID": "cv/mdschemata.html",
     "href": "cv/mdschemata.html",
-    "title": "VerbundFDB-CV",
+    "title": "Metadatenschemata des VerbundFDB",
     "section": "",
-    "text": "Metadatenschemata des VerbundFDB: Kernset der Bildungsforschung\nHier soll das Profil des VerbundFDB-Kernsets erscheinen.",
+    "text": "Es gibt folgendes Medadatenschema des VerbundFDB: Kernset der Bildungsforschung:\n\nVerbundFDB - Metadaten-Kernset",
     "crumbs": [
       "Kontrollierte Vokabularien und Metadatenschemata",
       "Metadatenkernset des VerbundFDB"
