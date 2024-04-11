@@ -40,6 +40,10 @@ website:
             text: im Einzelnen
           - href: cv/fdz-am-iqb.qmd
             text: FDZ am IQB
+        - section: "Metadatenschemata"
+          contents:
+          - href: mds.qmd
+            text: Metadatenkernset des VerbundFDB
 
 
 format:
