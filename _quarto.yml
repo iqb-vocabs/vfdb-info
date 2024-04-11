@@ -38,10 +38,10 @@ website:
             text: Einführende Worte
           - href: cv/cv-im-einzelnen.qmd
             text: im Einzelnen
-          - href: cv/fdz-am-iqb.qmd
-            text: FDZ am IQB
           - href: cv/mdschemata.qmd
             text: Kernset der Bildungsforschung
+          - href: cv/fdz-am-iqb.qmd
+            text: Kataloge des FDZ am IQB
 
 
 format:
