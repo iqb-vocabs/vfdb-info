@@ -1,1 +1,3 @@
 Metadatenschemata des VerbundFDB: Kernset der Bildungsforschung
+
+Hier soll das Profil des VerbundFDB-Kernsets erscheinen.
