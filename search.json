@@ -2,9 +2,9 @@
   {
     "objectID": "mds.html",
     "href": "mds.html",
-    "title": "VerbundFDB-CV",
+    "title": "Einführung in den VerbundFDB",
     "section": "",
-    "text": "Metadatenschemata"
+    "text": "Im Verbund Forschungsdaten Bildung (VerbundFDB) arbeiten einschlägige nationale Einrichtungen aus dem Bereich der Bildungsforschung und der Forschungsdateninfrastruktur gemeinsam daran, ein attraktives und qualitativ hochwertiges Angebot an Forschungsdaten für die empirische Bildungsforschung bereitzustellen. Dabei verpflichtet sich der VerbundFDB den Prinzipien von Open Science. Forschende finden beim VerbundFDB die Möglichkeit, selbstgenerierte Daten zu archivieren und Forschungsdaten zur Nachnutzung aufzufinden.\nSeit 2022 ist der VerbundFDB eine dauerhaft verstetigte Infrastruktur für die Bildungsforschung. Die VerbundFDB-Koordinierungsstelle ist am DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation angesiedelt und wird somit von Bund und Ländern finanziert. Die hierüber finanzierten Basisdienste des VerbundFDB werden durch die Partnerinstitutionen GESIS, IQB und DIPF betrieben. Das Forschungsdatenzentrum des IQB, als ein Partner des VerbundFDB, beschäftigt sich dabei insbesondere mit der Archivierung, Dokumentation und Sichtbarmachung der Daten aus Studien mit Kompetenzmessungen. Darüber hinaus sind insgesamt 13 Institutionen am erweiterten Partnernetzwerk beteiligt (z. B. FDZ-DZHW, FDZ-LIfBi, FDZ-Lex, Qualiservice).\nDer VerbundFDB trägt dazu bei, das Potenzial der in der Bildungsforschung generierten Forschungsdaten möglichst umfassend auszuschöpfen und eine Kultur des Data Sharing zu etablieren. Bildungsforscher*innen aller Disziplinen können nutzerfreundlich und standortunabhängig auf qualitätsgesicherte Forschungsdaten zugreifen. Bei Wahrung ethischer, datenschutz- und urheberrechtlicher Interessen werden hierdurch Forschungsansätze über disziplinäre und nationale Grenzen hinweg möglich. Es entstehen neue Forschungspotenziale durch hochwertige Forschungsdaten und neue Verknüpfungsmöglichkeiten von Forschungsdaten verschiedener Quellen.\nAls zentrale Anlaufstelle für Forschungsdaten in der Bildungsforschung bietet der VerbundFDB folgende Leistungen:\n\nSichtbarkeit und Auffindbarkeit von Forschungsdaten: Über die Datensuche sind Forschungsdaten verschiedener Datenzentren und Repositorien recherchierbar;\nPublikation und Erhalt von qualitätsgesicherten Forschungsdaten: Datenbestände werden bei einem inhaltlich und methodisch passenden Datenzentrum unter Wahrung ethischer, datenschutz- und urheberrechtlicher sowie dokumentarischer Standards archiviert und zugänglich gemacht (Daten teilen);\nSchulung und Beratung zum Datenmanagement: In Vorortschulungen, digitalen Schulungs- und Informationsangeboten sowie durch Handreichungen werden Themen des Forschungsdatenmanagements aufbereitet und diskutiert (Daten managen). Projektspezifische Fragen können in individuellen Beratungen vertieft werden.\nDer VerbundFDB arbeitet in enger Partnerschaft mit KonsortSWD und versteht sich als Teil der Nationalen Forschungsdateninfrastruktur (nfdi)."
   },
   {
     "objectID": "intro/what_is.html",
@@ -24,19 +24,19 @@
     "section": "",
     "text": "Der VerbundFDB gestaltet die Forschungsdateninfrastruktur im Bereich der empirischen Bildungsforschung in Deutschland. Ein Hauptanliegen ist die Schaffung eines zentralen Zugangs zu Forschungsdaten. Ein zentraler Nachweis der Forschungsdaten aus unterschiedlichen Forschungsprojekten benötigt einen Kern an Metadaten, den alle nachgewiesenen Datensätze kennzeichnen. Damit geht eine Erhöhung der Metadatenqualität einher. Ziel muss es sein, kontrollierte Vokabulare sowie Metadatenschemata und Metadatenkataloge zu veröffentlichen, um diese zentral und kooperativ zu verwalten und der Öffentlichkeit zugänglich zu machen. Die im Rahmen des VerbundFDB entwickelten kontrollierten Vokabularien aus der Bildungsforschung finden sich hier.",
     "crumbs": [
-      "Kontrollierte Vokabularien",
+      "Kontrollierte Vokabularien und Metadatenschemata",
       "Einführende Worte"
     ]
   },
   {
-    "objectID": "cv/cv-im-einzelnen.html",
-    "href": "cv/cv-im-einzelnen.html",
-    "title": "Im Einzelnen",
+    "objectID": "cv/mdschemata.html",
+    "href": "cv/mdschemata.html",
+    "title": "VerbundFDB-CV",
     "section": "",
-    "text": "Es gibt folgende kontrollierte Vokabularien (sog. CVs) des VerbundFDB im Bereich der Bildungsforschung:\n\nVerbundFDB - Kontrolliertes Vokabular - Auswahlverfahren\nVerbundFDB - Kontrolliertes Vokabular - Datenformat\nVerbundFDB - Kontrolliertes Vokabular - Datentyp\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsdesign\nVerbundFDB - Kontrolliertes Vokabular - Erhebungseinheit\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode\nVerbundFDB - Kontrolliertes Vokabular - Forschungsdesign\nVerbundFDB - Kontrolliertes Vokabular - Forschungsgebiet\nVerbundFDB - Kontrolliertes Vokabular - Themenbereiche\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren\nVerbundFDB - Kontrolliertes Vokabular - Zugriff\n\nVisualisiert kann man sich diese hier anschauenMit den kontrollierten Vokabularien werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.\nDie internationale Anschlussfähigkeit wird durch eine durchgängige Mehrsprachigkeit der Kataloge und Vokabularien ermöglicht sowie durch Informationen zum Mapping einzelner Elemente auf existierende Schemata. Die Kataloge werden aktuell gehalten und bei Weiterentwicklungen werden die nötigen Anpassungen vorgenommen.",
+    "text": "Metadatenschemata des VerbundFDB: Kernset der Bildungsforschung\nHier soll das Profil des VerbundFDB-Kernsets erscheinen.",
     "crumbs": [
-      "Kontrollierte Vokabularien",
-      "im Einzelnen"
+      "Kontrollierte Vokabularien und Metadatenschemata",
+      "Metadatenkernset des VerbundFDB"
     ]
   },
   {
@@ -50,13 +50,24 @@
     ]
   },
   {
+    "objectID": "cv/cv-im-einzelnen.html",
+    "href": "cv/cv-im-einzelnen.html",
+    "title": "Im Einzelnen",
+    "section": "",
+    "text": "Es gibt folgende kontrollierte Vokabularien (sog. CVs) des VerbundFDB im Bereich der Bildungsforschung:\n\nVerbundFDB - Kontrolliertes Vokabular - Auswahlverfahren\nVerbundFDB - Kontrolliertes Vokabular - Datenformat\nVerbundFDB - Kontrolliertes Vokabular - Datentyp\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsdesign\nVerbundFDB - Kontrolliertes Vokabular - Erhebungseinheit\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode\nVerbundFDB - Kontrolliertes Vokabular - Forschungsdesign\nVerbundFDB - Kontrolliertes Vokabular - Forschungsgebiet\nVerbundFDB - Kontrolliertes Vokabular - Themenbereiche\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren\nVerbundFDB - Kontrolliertes Vokabular - Zugriff\n\nVisualisiert kann man sich diese hier anschauenMit den kontrollierten Vokabularien werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.\nDie internationale Anschlussfähigkeit wird durch eine durchgängige Mehrsprachigkeit der Kataloge und Vokabularien ermöglicht sowie durch Informationen zum Mapping einzelner Elemente auf existierende Schemata. Die Kataloge werden aktuell gehalten und bei Weiterentwicklungen werden die nötigen Anpassungen vorgenommen.",
+    "crumbs": [
+      "Kontrollierte Vokabularien und Metadatenschemata",
+      "im Einzelnen"
+    ]
+  },
+  {
     "objectID": "cv/fdz-am-iqb.html",
     "href": "cv/fdz-am-iqb.html",
     "title": "Forschungsdatenzentrum (FDZ) am IQB",
     "section": "",
     "text": "Hier finden sich die am FDZ am IQB verwendeten Konstruktkataloge im Überblick / zur Einsicht\n\nForschungsdatenzentrum Konstrukte - Tests (Leistungstests)\nForschungsdatenzentrum Konstrukte - Prozessdaten (Logdaten)\nForschungsdatenzentrum Konstrukte - Fragebögen (Konstruktliste) sowie\n\nhier visualisiert.",
     "crumbs": [
-      "Kontrollierte Vokabularien",
+      "Kontrollierte Vokabularien und Metadatenschemata",
       "FDZ am IQB"
     ]
   },
