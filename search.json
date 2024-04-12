@@ -31,19 +31,8 @@
     "section": "",
     "text": "Hier finden sich die am FDZ am IQB verwendeten Konstruktkataloge im Überblick / zur Einsicht\n\nForschungsdatenzentrum Konstrukte - Tests (Leistungstests)\nForschungsdatenzentrum Konstrukte - Prozessdaten (Logdaten)\nForschungsdatenzentrum Konstrukte - Fragebögen (Konstruktliste) sowie\n\nhier visualisiert.",
     "crumbs": [
-      "Kontrollierte Vokabularien und Metadatenschemata",
+      "Kontrollierte Vokabularien",
       "Kataloge des FDZ am IQB"
-    ]
-  },
-  {
-    "objectID": "cv/cv-im-einzelnen.html",
-    "href": "cv/cv-im-einzelnen.html",
-    "title": "Im Einzelnen",
-    "section": "",
-    "text": "Es gibt folgende kontrollierte Vokabularien (sog. CVs) des VerbundFDB im Bereich der Bildungsforschung:\n\nVerbundFDB - Kontrolliertes Vokabular - Auswahlverfahren\nVerbundFDB - Kontrolliertes Vokabular - Datenformat\nVerbundFDB - Kontrolliertes Vokabular - Datentyp\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsdesign\nVerbundFDB - Kontrolliertes Vokabular - Erhebungseinheit\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode\nVerbundFDB - Kontrolliertes Vokabular - Forschungsdesign\nVerbundFDB - Kontrolliertes Vokabular - Forschungsgebiet\nVerbundFDB - Kontrolliertes Vokabular - Themenbereiche\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren\nVerbundFDB - Kontrolliertes Vokabular - Zugriff\n\nVisualisiert kann man sich diese hier anschauenMit den kontrollierten Vokabularien werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.\nDie internationale Anschlussfähigkeit wird durch eine durchgängige Mehrsprachigkeit der Kataloge und Vokabularien ermöglicht sowie durch Informationen zum Mapping einzelner Elemente auf existierende Schemata. Die Kataloge werden aktuell gehalten und bei Weiterentwicklungen werden die nötigen Anpassungen vorgenommen.",
-    "crumbs": [
-      "Kontrollierte Vokabularien und Metadatenschemata",
-      "im Einzelnen"
     ]
   },
   {
@@ -57,14 +46,14 @@
     ]
   },
   {
-    "objectID": "cv/mdschemata.html",
-    "href": "cv/mdschemata.html",
-    "title": "Metadatenschemata des VerbundFDB",
+    "objectID": "cv/cv-im-einzelnen.html",
+    "href": "cv/cv-im-einzelnen.html",
+    "title": "Im Einzelnen",
     "section": "",
-    "text": "Es gibt folgendes Metadatenschema des VerbundFDB: Kernset der Bildungsforschung:\nVerbundFDB - Metadaten-Kernset",
+    "text": "Es gibt folgende kontrollierte Vokabularien (sog. CVs) des VerbundFDB im Bereich der Bildungsforschung:\n\nVerbundFDB - Kontrolliertes Vokabular - Auswahlverfahren\nVerbundFDB - Kontrolliertes Vokabular - Datenformat\nVerbundFDB - Kontrolliertes Vokabular - Datentyp\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsdesign\nVerbundFDB - Kontrolliertes Vokabular - Erhebungseinheit\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsmethode\nVerbundFDB - Kontrolliertes Vokabular - Forschungsdesign\nVerbundFDB - Kontrolliertes Vokabular - Forschungsgebiet\nVerbundFDB - Kontrolliertes Vokabular - Themenbereiche\nVerbundFDB - Kontrolliertes Vokabular - Erhebungsverfahren\nVerbundFDB - Kontrolliertes Vokabular - Zugriff\n\nVisualisiert kann man sich diese hier anschauenMit den kontrollierten Vokabularien werden auch Harmonisierungsprozesse zwischen Forschungsdatenzentren unterstützt.\nDie internationale Anschlussfähigkeit wird durch eine durchgängige Mehrsprachigkeit der Kataloge und Vokabularien ermöglicht sowie durch Informationen zum Mapping einzelner Elemente auf existierende Schemata. Die Kataloge werden aktuell gehalten und bei Weiterentwicklungen werden die nötigen Anpassungen vorgenommen.",
     "crumbs": [
-      "Kontrollierte Vokabularien und Metadatenschemata",
-      "Kernset der Bildungsforschung"
+      "Kontrollierte Vokabularien",
+      "im Einzelnen"
     ]
   },
   {
@@ -74,7 +63,7 @@
     "section": "",
     "text": "Der VerbundFDB gestaltet die Forschungsdateninfrastruktur im Bereich der empirischen Bildungsforschung in Deutschland. Ein Hauptanliegen ist die Schaffung eines zentralen Zugangs zu Forschungsdaten. Ein zentraler Nachweis der Forschungsdaten aus unterschiedlichen Forschungsprojekten benötigt einen Kern an Metadaten, den alle nachgewiesenen Datensätze kennzeichnen. Damit geht eine Erhöhung der Metadatenqualität einher. Ziel muss es sein, kontrollierte Vokabulare sowie Metadatenschemata und Metadatenkataloge zu veröffentlichen, um diese zentral und kooperativ zu verwalten und der Öffentlichkeit zugänglich zu machen. Die im Rahmen des VerbundFDB entwickelten kontrollierten Vokabularien aus der Bildungsforschung finden sich hier.",
     "crumbs": [
-      "Kontrollierte Vokabularien und Metadatenschemata",
+      "Kontrollierte Vokabularien",
       "Einführende Worte"
     ]
   },
