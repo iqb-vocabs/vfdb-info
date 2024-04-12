@@ -1,10 +1,10 @@
 ---
 lang: de
-title: Die Kataloge des Forschungsdatenzentrums (FDZ) am IQB
+title: FDZ am IQB-Kataloge
 ---
 ![](Logo-FDZ.jpg){width=20%}
 
-[Hier](https://skohub.io/iqb-vocabs/v87/heads/master/) finden sich die am FDZ am IQB verwendeten Konstruktkataloge im Überblick / zur Einsicht
+[Hier](https://skohub.io/iqb-vocabs/v87/heads/master/) finden sich die am Forschungsdatenzentrum (FDZ) am IQB verwendeten Konstruktkataloge im Überblick / zur Einsicht
 
    * [Forschungsdatenzentrum Konstrukte - Tests (Leistungstests)](https://skohub.io/iqb-vocabs/v87/heads/master/w3id.org/iqb/v87/ca/index.html)
    * [Forschungsdatenzentrum Konstrukte - Prozessdaten (Logdaten)](https://skohub.io/iqb-vocabs/v87/heads/master/w3id.org/iqb/v87/cp/index.html)
