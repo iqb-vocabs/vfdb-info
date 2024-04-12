@@ -7,7 +7,7 @@ Zur Verbesserung der Metadatenqualität hat sich der VerbundFDB mit dem erweiter
 
 [VerbundFDB: Kernset Bildungsforschung (Version 1.0)](https://iqb-vocabs.github.io/p80/)
 
-Zitation:
+Zitation (DE):
 VerbundFDB: Kernset Bildungsforschung. Version 1.0. Verfügbar unter https://iqb-vocabs.github.io/p80. 
 
 Provenienz:
@@ -16,9 +16,8 @@ Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von der Verbund
 Lizenz:
 [CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication] (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
 
-In Englisch würde
 
-Citation:
+Citation (en):
 VerbundFDB: Core Metadata Scheme Educational Research. Version 1.0. Retrieved from https://iqb-vocabs.github.io/p80.
 
 Provenance:
