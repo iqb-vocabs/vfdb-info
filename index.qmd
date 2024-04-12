@@ -4,11 +4,6 @@ title: Verbund Forschungsdaten Bildung
 ---
 ![](Logo_VerbundFDB_rgb.jpg)
 
-::: {.callout-important}
-## Achtung: Webseite in Entwicklung
-Diese Webseite ist im Aufbau. Das IQB erprobt über diesen Weg die Nutzbarkeit von [Quarto](https://quarto.org). Bitte ignorieren Sie zunächst die Inhalte.
-:::
-
 # Willkommen
 
 Im Verbund Forschungsdaten Bildung (VerbundFDB) arbeiten einschlägige nationale Einrichtungen aus dem Bereich der Bildungsforschung und der Forschungsdateninfrastruktur gemeinsam daran, ein attraktives und qualitativ hochwertiges Angebot an Forschungsdaten für die empirische Bildungsforschung bereitzustellen. Dabei verpflichtet sich der VerbundFDB den Prinzipien von Open Science. Forschende finden beim VerbundFDB die Möglichkeit, selbstgenerierte Daten zu archivieren und Forschungsdaten zur Nachnutzung aufzufinden.

@@ -57,7 +57,7 @@ Die Installation erfolgt nach dem [Herunterladen](https://code.visualstudio.com/
 
 Nach Bedarf sollte man zunächst die deutsche Sprachvariante aktivieren. Außerdem ist zu empfehlen, die Erweiterung "Quarto" zu installieren. Dann steht bei Änderungen eine Syntaxprüfung zur Verfügung und die Funktion "Preview" ist über einen Schalter erreichbar und muss nicht über ein Kommando aufgerufen werden.
 
-## Zusammenarbeit mehrerer Auto\*innen
+## Zusammenarbeit mehrerer Autor\*innen
 
 Git ist eine leistungsfähige Codeverwaltung. Dazu gehört, dass man Änderungen parallel in einem Versionszweig (sog. "Branch") vornehmen kann und erst später in den Hauptzweig "main" übernimmt (sog. "Merge"). So ist eine Arbeitsweise "vorläufige Änderungen" möglich und man kann vor der Freigabe andere Personen mit einer abschließenden Redaktion beauftragen.
 
