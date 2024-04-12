@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Im Einzelnen
+title: Die kontrollierten Vokabularien des VerbundFDB im Einzelnen
 ---
 
 Es gibt folgende kontrollierte Vokabularien (sog. CVs) des VerbundFDB im Bereich der Bildungsforschung:

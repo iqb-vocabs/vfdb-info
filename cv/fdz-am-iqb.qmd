@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Forschungsdatenzentrum (FDZ) am IQB
+title: Die Kataloge des Forschungsdatenzentrums (FDZ) am IQB
 ---
 ![](Logo-FDZ.jpg){width=20%}
 
