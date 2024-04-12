@@ -17,7 +17,8 @@ Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von der Verbund
 
 Lizenz:
 
-[CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication] (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
+[CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
+
 
 
 Citation (en):
@@ -30,4 +31,4 @@ This is a controlled vocabulary developed and used by the VerbundFDB metadata wo
 
 License:
 
-[CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication] (https://creativecommons.org/publicdomain/zero/1.0/deed.de)
+[CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.de)
