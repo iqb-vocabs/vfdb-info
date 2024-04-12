@@ -37,9 +37,9 @@ website:
           - href: cv/intro.qmd
             text: Einführende Worte
           - href: cv/cv-im-einzelnen.qmd
-            text: im Einzelnen
+            text: VerbundFDB
           - href: cv/fdz-am-iqb.qmd
-            text: Kataloge des FDZ am IQB
+            text: FDZ am IQB
       - section: "Metadatenschema"
         contents:
           - href: mds/mds.qmd
