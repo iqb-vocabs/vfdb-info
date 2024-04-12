@@ -20,9 +20,9 @@
   {
     "objectID": "mds/mds.html",
     "href": "mds/mds.html",
-    "title": "Metadatenschemata des VerbundFDB",
+    "title": "Metadatenschema des VerbundFDB - Kernset der Bildungsforschung",
     "section": "",
-    "text": "Es gibt folgendes Metadatenschema des VerbundFDB: Kernset der Bildungsforschung:\nVerbundFDB - Metadaten-Kernset",
+    "text": "Zur Verbesserung der Metadatenqualität hat sich der VerbundFDB mit dem erweiterten Partnerkreis auf ein Kernset von Metadaten geeinigt:\nVerbundFDB: Kernset Bildungsforschung (Version 1.0)\nZitation: VerbundFDB: Kernset Bildungsforschung. Version 1.0. Retrieved from https://iqb-vocabs.github.io/p80.\nProvenienz: Es handelt sich hierbei um ein kontrolliertes Vokabular, welches von der VerbundFDB-Arbeitsgruppe Metadaten unter Beteiligung von Noemi Betancort-Cabrera, Andreas Daniel, Daniel Fuß, Jan Goebel, Karoline Harzenetter, Ute Hoffstätter, Reiner Mauer, Claudia Neuendorf, Lisa Pegelow, Maike Porzelt, Alexander Schuster und Dirk Weisbrod entwickelt wurde.\nLizenz: [CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication] (https://creativecommons.org/publicdomain/zero/1.0/deed.de)\nIn Englisch würde\nCitation: VerbundFDB: Core Metadata Scheme Educational Research. Version 1.0. Retrieved from https://iqb-vocabs.github.io/p80.\nProvenance: This is a controlled vocabulary developed and used by the VerbundFDB metadata working group (Noemi Betancort-Cabrera, Andreas Daniel, Daniel Goebel, Karoline Harzenetter, Ute Hoffstatter, Reiner Mauer, Claudia Neuendorf, Lisa Pegelow and Maike Porzelt Alexander Schuster and Dirk Weisbrod).\nLicense: [CC0 1.0 Universell (CC0 1.0) / Public Domain Dedication] (https://creativecommons.org/publicdomain/zero/1.0/deed.de)",
     "crumbs": [
       "Metadatenschema",
       "Kernset der Bildungsforschung"
