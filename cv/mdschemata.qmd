@@ -1,0 +1,8 @@
+---
+lang: de
+title: Metadatenschemata des VerbundFDB
+---
+
+Es gibt folgendes Metadatenschema des VerbundFDB: Kernset der Bildungsforschung:
+
+[VerbundFDB - Metadaten-Kernset](https://iqb-vocabs.github.io/p80/)
