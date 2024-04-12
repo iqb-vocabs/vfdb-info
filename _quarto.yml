@@ -32,17 +32,18 @@ website:
             text: Was ist der VerbundFDB?
           - href: intro/literature.qmd
             text: Literaturquellen
-      - section: "Kontrollierte Vokabularien und Metadatenschemata"
+      - section: "Kontrollierte Vokabularien"
         contents:
           - href: cv/intro.qmd
             text: Einführende Worte
           - href: cv/cv-im-einzelnen.qmd
             text: im Einzelnen
-          - href: cv/mdschemata.qmd
-            text: Kernset der Bildungsforschung
           - href: cv/fdz-am-iqb.qmd
             text: Kataloge des FDZ am IQB
-
+      - section: "Metadatenschema"
+        contents:
+          - href: cv/mdschemata.qmd
+            text: Kernset der Bildungsforschung
 
 format:
   html:
