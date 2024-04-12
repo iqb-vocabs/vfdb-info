@@ -46,6 +46,7 @@ website:
             text: Einführende Worte
           - href: https://iqb-vocabs.github.io/p80/
             text: Kernset der Bildungsforschung
+            target: _blank
 
 format:
   html:
