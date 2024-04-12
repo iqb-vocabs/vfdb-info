@@ -42,7 +42,7 @@ website:
             text: Kataloge des FDZ am IQB
       - section: "Metadatenschema"
         contents:
-          - href: cv/mdschemata.qmd
+          - href: cv/mds.qmd
             text: Kernset der Bildungsforschung
 
 format:
