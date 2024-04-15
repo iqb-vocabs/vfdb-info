@@ -6,7 +6,7 @@ title: Verbund Forschungsdaten Bildung
 
 # Willkommen
 
-Im Verbund Forschungsdaten Bildung (VerbundFDB) arbeiten einschlägige nationale Einrichtungen aus dem Bereich der Bildungsforschung und der Forschungsdateninfrastruktur gemeinsam daran, ein attraktives und qualitativ hochwertiges Angebot an Forschungsdaten für die empirische Bildungsforschung bereitzustellen. Dabei verpflichtet sich der VerbundFDB den Prinzipien von Open Science. Forschende finden beim VerbundFDB die Möglichkeit, selbstgenerierte Daten zu archivieren und Forschungsdaten zur Nachnutzung aufzufinden.
+Im [Verbund Forschungsdaten Bildung (VerbundFDB)](https://www.forschungsdaten-bildung.de/) arbeiten einschlägige nationale Einrichtungen aus dem Bereich der Bildungsforschung und der Forschungsdateninfrastruktur gemeinsam daran, ein attraktives und qualitativ hochwertiges Angebot an Forschungsdaten für die empirische Bildungsforschung bereitzustellen. Dabei verpflichtet sich der VerbundFDB den Prinzipien von Open Science. Forschende finden beim VerbundFDB die Möglichkeit, selbstgenerierte Daten zu archivieren und Forschungsdaten zur Nachnutzung aufzufinden.
 
 # Redaktion
 Die vorliegenden Texte werden unter Federführung des [Forschungsdatenzentrums am IQB](https://www.iqb.hu-berlin.de/fdz) veröffentlicht. Die jeweiligen Autor\*innen sind entweder im Kopf eines Dokumentes genannt oder zu Beginn eines größeren Seitenzweiges.
