@@ -4,13 +4,13 @@ project:
 website:
   site-url: https://iqb-vocabs.github.io/vfdb-info/
   title: "VerbundFDB-CV"
-  favicon: favicon.ico
+  favicon: VerbundFDB-klein.ico
   page-navigation: true
   repo-url: https://github.com/iqb-vocabs/vfdb-info/
   repo-actions: [issue]
   navbar:
     search: true
-    logo: IQB-klein.png
+    logo: IQB-klein.png, Logo_VerbundFDB_rgb_klein.jpg
   page-footer:
     background: light
     right:
