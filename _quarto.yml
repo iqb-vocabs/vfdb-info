@@ -10,7 +10,7 @@ website:
   repo-actions: [issue]
   navbar:
     search: true
-    logo: IQB-klein.png, Logo_VerbundFDB_rgb_klein.jpg
+    logo: IQB-klein.png
   page-footer:
     background: light
     right:
