@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iqb-vocabs.github.io/vfdb-info/intro/literature.html</loc>
-    <lastmod>2024-04-16T14:49:45.877Z</lastmod>
+    <loc>https://iqb-vocabs.github.io/vfdb-info/intro/what_is.html</loc>
+    <lastmod>2024-04-18T13:30:33.155Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-vocabs.github.io/vfdb-info/mds/profil.html</loc>
-    <lastmod>2024-04-16T14:49:45.877Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-vocabs.github.io/vfdb-info/cv/fdz-am-iqb.html</loc>
-    <lastmod>2024-04-16T14:49:45.877Z</lastmod>
+    <lastmod>2024-04-18T13:30:33.155Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-vocabs.github.io/vfdb-info/index.html</loc>
-    <lastmod>2024-04-16T14:49:45.877Z</lastmod>
-  </url>
-  <url>
-    <loc>https://iqb-vocabs.github.io/vfdb-info/cv/cv-im-einzelnen.html</loc>
-    <lastmod>2024-04-16T14:49:45.877Z</lastmod>
+    <lastmod>2024-04-18T13:30:33.155Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-vocabs.github.io/vfdb-info/cv/intro.html</loc>
-    <lastmod>2024-04-16T14:49:45.877Z</lastmod>
+    <lastmod>2024-04-18T13:30:33.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-vocabs.github.io/vfdb-info/cv/fdz-am-iqb.html</loc>
+    <lastmod>2024-04-18T13:30:33.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://iqb-vocabs.github.io/vfdb-info/cv/cv-im-einzelnen.html</loc>
+    <lastmod>2024-04-18T13:30:33.155Z</lastmod>
   </url>
   <url>
     <loc>https://iqb-vocabs.github.io/vfdb-info/mds/mds.html</loc>
-    <lastmod>2024-04-16T14:49:45.877Z</lastmod>
+    <lastmod>2024-04-18T13:30:33.155Z</lastmod>
   </url>
   <url>
-    <loc>https://iqb-vocabs.github.io/vfdb-info/intro/what_is.html</loc>
-    <lastmod>2024-04-16T14:49:45.877Z</lastmod>
+    <loc>https://iqb-vocabs.github.io/vfdb-info/intro/literature.html</loc>
+    <lastmod>2024-04-18T13:30:33.155Z</lastmod>
   </url>
 </urlset>
