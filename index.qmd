@@ -2,7 +2,7 @@
 lang: de
 title: Verbund Forschungsdaten Bildung
 ---
-![](Logo_VerbundFDB_rgb.jpg)
+![](VerbundFDB-Logo.jpg)
 
 # Willkommen
 
