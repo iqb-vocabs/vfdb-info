@@ -7,4 +7,4 @@ nocite: |
   @*
 ---
 
-[Handreichungen des VerbundFDB](https://www.forschungsdaten-bildung.de/handreichungen)
+[Hier](https://www.forschungsdaten-bildung.de/handreichungen) finden sich alle Handreichungen des VerbundFDB zur weiteren Information.
