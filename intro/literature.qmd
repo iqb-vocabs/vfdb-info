@@ -1,5 +1,5 @@
 ---
-title: "Literatur zu VerbundFDB"
+title: "Literatur"
 lang: de
 bibliography: bibliography.bib
 csl: ../apa.csl
@@ -7,3 +7,4 @@ nocite: |
   @*
 ---
 
+[Handreichungen des VerbundFDB](https://www.forschungsdaten-bildung.de/handreichungen)
