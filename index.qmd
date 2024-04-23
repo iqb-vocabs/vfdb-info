@@ -1,12 +1,14 @@
 ---
 lang: de
-title: Verbund Forschungsdaten Bildung
+title: Vocabs and Schemes (VoSch)
 ---
-![](VerbundFDB-Logo.jpg)
+![](VerbundFDB-Logo_klein.jpg)
 
 # Willkommen
 
 Im [Verbund Forschungsdaten Bildung (VerbundFDB)](https://www.forschungsdaten-bildung.de/) arbeiten einschlägige nationale Einrichtungen aus dem Bereich der Bildungsforschung und der Forschungsdateninfrastruktur gemeinsam daran, ein attraktives und qualitativ hochwertiges Angebot an Forschungsdaten für die empirische Bildungsforschung bereitzustellen. Dabei verpflichtet sich der VerbundFDB den Prinzipien von Open Science. Forschende finden beim VerbundFDB die Möglichkeit, selbstgenerierte Daten zu archivieren und Forschungsdaten zur Nachnutzung aufzufinden.
+
+Hier auf den folgenden Seiten soll es um **kontrollierte Vokabularien und Schemata im Bereich der Metadaten** gehen. Angesprochen werden hier v. a. Infrastruktur und Bereiche der Dokumentation, sprich wissenschaftliche Dokumentar\*innen (data librarian).
 
 # Redaktion
 Die vorliegenden Texte werden unter Federführung des [Forschungsdatenzentrums am IQB](https://www.iqb.hu-berlin.de/fdz) veröffentlicht. Die jeweiligen Autor\*innen sind entweder im Kopf eines Dokumentes genannt oder zu Beginn eines größeren Seitenzweiges.
