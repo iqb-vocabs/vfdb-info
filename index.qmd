@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Vocabs and Schemes (VoSch)
+title: Vokabularien und Schemata (VoSch)
 ---
 ![](VerbundFDB-Logo_klein.jpg)
 
