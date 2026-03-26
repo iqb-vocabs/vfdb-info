@@ -14,7 +14,7 @@ website:
   page-footer:
     background: light
     right:
-      - text: "IQB 2024"
+      - text: "IQB 2026"
         href: https://www.iqb.hu-berlin.de
     left:
       - icon: IQB-klein.png
