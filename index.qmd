@@ -11,7 +11,7 @@ Im [Verbund Forschungsdaten Bildung (VerbundFDB)](https://www.forschungsdaten-bi
 Hier auf den folgenden Seiten soll es um **kontrollierte Vokabularien und Schemata im Bereich der Metadaten** gehen. Angesprochen werden hier v. a. Infrastruktur und Bereiche der Dokumentation, sprich wissenschaftliche Dokumentar\*innen (data librarian).
 
 # Redaktion
-Die vorliegenden Texte werden unter Federführung des [Forschungsdatenzentrums am IQB](https://www.iqb.hu-berlin.de/fdz) veröffentlicht. Die jeweiligen Autor\*innen sind entweder im Kopf eines Dokumentes genannt oder zu Beginn eines größeren Seitenzweiges.
+Die vorliegenden Texte werden unter Federführung des [Forschungsdatenzentrums am IQB](https://fdz.iqb.hu-berlin.de/) veröffentlicht. Die jeweiligen Autor\*innen sind entweder im Kopf eines Dokumentes genannt oder zu Beginn eines größeren Seitenzweiges.
 
 # Lizenz
 Alle Texte sind unter der [Lizenz CC0](https://open-educational-resources.de/was-die-cc0-freigabe-bedeutet-und-welche-moeglichkeiten-sie-eroeffnen/) veröffentlicht. Die Leitlinien zur Sicherung guter wissenschaftlicher Praxis (s. z. B. [DFG-pdf](https://www.dfg.de/resource/blob/173732/4166759430af8dc2256f0fa54e009f03/kodex-gwp-data.pdf)) gebieten gleichwohl, dass die Quellen von Informationen genannt werden sollten.
@@ -26,7 +26,7 @@ Dieser Webauftritt basiert auf Texten in einer einfachen Syntax [Markdown](https
 
 # Kontakt
 
-Für die Inhalte dieser Webseite ist Frau [Lisa Pegelow](https://www.iqb.hu-berlin.de/institut/staff/?pg=c057) verantwortlich. Technische Fragen für die Bearbeitung der Inhalte können Sie an [Martin Mechtel](mailto:mechtel@iqb.hu-berlin.de) richten.
+Für die Inhalte dieser Webseite ist Frau [Lisa Pegelow](https://www.iqb.hu-berlin.de/de/institut/ueber-uns/personen/fdz/1/) verantwortlich. Technische Fragen für die Bearbeitung der Inhalte können Sie an [Martin Mechtel](mailto:mechtel@iqb.hu-berlin.de) richten.
 
 # Feedback
 
