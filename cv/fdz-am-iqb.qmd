@@ -8,6 +8,4 @@ title: FDZ am IQB-Kataloge
 
    * [Forschungsdatenzentrum Konstrukte - Tests (Leistungstests)](https://skohub.io/iqb-vocabs/v87/heads/master/w3id.org/iqb/v87/ca/index.html)
    * [Forschungsdatenzentrum Konstrukte - Prozessdaten (Logdaten)](https://skohub.io/iqb-vocabs/v87/heads/master/w3id.org/iqb/v87/cp/index.html)
-   * [Forschungsdatenzentrum Konstrukte - Fragebögen (Konstruktliste)](https://skohub.io/iqb-vocabs/v87/heads/master/w3id.org/iqb/v87/cq/index.html) sowie
-   
-[hier](https://www.iqb.hu-berlin.de/fdz/Daten/browser) visualisiert.
+   * [Forschungsdatenzentrum Konstrukte - Fragebögen (Konstruktliste)](https://skohub.io/iqb-vocabs/v87/heads/master/w3id.org/iqb/v87/cq/index.html)
